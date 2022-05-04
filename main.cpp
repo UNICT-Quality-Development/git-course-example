@@ -1,7 +1,6 @@
 #include <iostream>
 
-asd
 int main()
 {
-  cout << "Hello stefano";
+  cout << "cioao mondo";
 }
