@@ -1,6 +1,5 @@
 #include <iostream>
-
-asd
+using namespace std;
 int main()
 {
   cout << "Hello stefano";
